@@ -1,0 +1,32 @@
+.openTickets {
+  margin-bottom: 30px;
+  width: 150px;
+  padding-left: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+    &__btn {
+      margin-left: 80px;
+    }
+
+    &__ticket {
+      border: 1px solid black;
+      width: 160px;
+      height: 25px;
+      text-align: center;
+      padding: 2px;
+      border-radius: 5px;
+      background-color: rgb(53, 108, 236);
+      color: white;
+      font-weight: 500;
+    }
+    
+    &__all {
+      margin: 50px;
+      padding-left: 100px;
+      margin-top: 20px;
+      padding-top: 30px;
+      margin-bottom: 5px;
+      border: 1px solid #a8a8a8;
+      padding-bottom: 100px;
+    }
+}

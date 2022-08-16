@@ -1,0 +1,93 @@
+[
+  {
+    "2022-08-18": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+      "Ankara": {
+        "lastStation": "İstanbul, Eskişehir, Karaman, Konya, Kurtalan, Kars, Malatya, İzmir"
+      },
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    },
+    "2022-08-19": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+      "Ankara": {
+        "lastStation": "İzmir"
+      },
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    },
+    "2022-08-20": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    },
+    "2022-08-21": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+      "Ankara": {
+        "lastStation": "İstanbul, Eskişehir, Karaman, Konya, Kurtalan, Kars, Malatya, İzmir"
+      },
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    },
+    "2022-08-22": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+      "Ankara": {
+        "lastStation": "İstanbul, Eskişehir, Karaman, Konya, Kurtalan, Kars, Malatya, İzmir"
+      },
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    },
+    "2022-08-23": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+      "Ankara": {
+        "lastStation": "İstanbul, Eskişehir, Karaman, Konya, Kurtalan, Kars, Malatya, İzmir"
+      },
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    },
+    "2022-08-24": {
+      "istanbul": {
+        "lastStation": "Ankara Gar, Karaman, Konya, Uzunköprü, Kapıkule"
+      },
+      "Ankara": {
+        "lastStation": "İstanbul, Eskişehir, Karaman, Konya, Kurtalan, Kars, Malatya, İzmir"
+      },
+      "Eskişehir": {
+        "lastStation": "Ankara, Kütahya, Denizli, İzmir, Afyon, Tavşanlı"
+      },
+      "Konya": { "lastStation": "İstanbul, Ankara, Karaman, Adana, İzmir" },
+      "Karaman": { "lastStation": "Ankara, İstanbul, Konya" }
+    }
+  }
+]

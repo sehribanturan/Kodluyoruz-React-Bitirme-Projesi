@@ -1,0 +1,366 @@
+[
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Ankara",
+        "hour":"06:30 - 10:25",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Ankara",
+        "hour":"10:00 - 14:15",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Ankara",
+        "hour":"14:15 - 18:30",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },   
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Ankara",
+        "hour":"22:30 - 02:30",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Ankara",
+        "hour":"23:30 - 04:30",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Eskişehir",
+        "hour":"10:00 - 14:15",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Eskişehir",
+        "hour":"14:15 - 18:30",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Eskişehir",
+        "hour":"20:00 - 02:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Konya",
+        "hour":"07:30 - 11:20",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Konya",
+        "hour":"12:00 - 16:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Konya",
+        "hour":"16:00 - 20:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Karaman",
+        "hour":"07:10 - 11:25",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Karaman",
+        "hour":"12:00 - 16:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Karaman",
+        "hour":"16:00 -20:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"İstanbul",
+        "hour":"08:30 - 12:45",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"İstanbul",
+        "hour":"10:00 - 14:15",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"İstanbul",
+        "hour":"14:15 - 18:30",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"İstanbul",
+        "hour":"20:00 - 00:30",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Eskişehir",
+        "hour":"09:00 - 12:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Eskişehir",
+        "hour":"13:00 - 16:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Eskişehir",
+        "hour":"17:00 - 20:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Konya",
+        "hour":"10:00 - 14:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Konya",
+        "hour":"14:00 - 18:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Konya",
+        "hour":"18:00 - 22:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Karaman",
+        "hour":"08:00 - 10:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Ankara",
+        "arrival" :"Karaman",
+        "hour":"11:00 - 15:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },    
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"İstanbul",
+        "hour":"10:00 - 14:15",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"İstanbul",
+        "hour":"15:15 - 19:30",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"İstanbul",
+        "arrival" :"Eskişehir",
+        "hour":"20:00 - 02:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Ankara",
+        "hour":"09:00 - 10:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Ankara",
+        "hour":"12:00 - 13:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Ankara",
+        "hour":"15:00 - 16:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Konya",
+        "hour":"13:00 - 14:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Konya",
+        "hour":"17:00 - 18:15",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Karaman",
+        "hour":"08:00 - 12:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Eskişehir",
+        "arrival" :"Karaman",
+        "hour":"12:00 - 16:00",
+        "pay":"122 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"İstanbul",
+        "hour":"06:30 - 10:45",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"İstanbul",
+        "hour":"12:00 - 16:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"Ankara",
+        "hour":"08:00 - 12:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"Ankara",
+        "hour":"12:00 - 16:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"Eskişehir",
+        "hour":"07:45 - 11:25",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"Eskişehir",
+        "hour":"12:45 - 17:25",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"Karaman",
+        "hour":"08:30 - 12:35",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Konya",
+        "arrival" :"Karaman",
+        "hour":"13:00 - 17:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"İstanbul",
+        "hour":"09:20 - 13:25",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"İstanbul",
+        "hour":"12:00 - 16:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"Ankara",
+        "hour":"13:00 - 17:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"Ankara",
+        "hour":"17:00 - 21:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"Eskişehir",
+        "hour":"11:00 - 15:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"Eskişehir",
+        "hour":"15:00 - 19:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    },
+    {
+        "exit" :"Karaman",
+        "arrival" :"Konya",
+        "hour":"16:00 - 20:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    }   ,
+    {
+        "exit" :"Karaman",
+        "arrival" :"Konya",
+        "hour":"20:00 - 01:00",
+        "pay":"185 TL",
+        "choose":"Seç"
+    }   
+]

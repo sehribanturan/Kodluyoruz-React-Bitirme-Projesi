@@ -1,0 +1,42 @@
+.ticket {
+  padding-left: 13px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #4f4f4f;
+
+    &__subTicket {
+      padding-left: 40px;
+      display: inline-block;
+      margin-right: 50px;
+      font-weight: bold;
+      color: #4f4f4f;
+    }
+
+    &__train {
+      width: 140px;
+      height: 25px;
+      font-weight: bold;
+      color: #4f4f4f;
+    }
+
+    &__passenger {
+      padding-left: 40px;
+      margin-top: 5px;
+    }
+
+    &__all {
+      border: 1px solid #a8a8a8;
+      background: #c4c4c4 url;
+      height: 450px;
+    }
+
+    &__button {
+      font-weight: bold;
+      color: #4f4f4f;
+    }
+    
+    &__fav {
+      padding-left: 50px;
+    }
+}

@@ -1,0 +1,30 @@
+.contact {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border: none;
+  border-color: cadetblue;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  font-family: feature-exists;
+  font-weight: floor;
+  background-color: rgba(250, 242, 233, 0.97);
+  border-radius: 50px;
+
+    &__p {
+      margin-top: 3em;
+    }
+
+    &__input {
+      width: 300px;
+      height: 80px;
+      padding: 5px;
+    }
+
+    &__button {
+      display: flex;
+      margin-top: 20px;
+    }
+}
